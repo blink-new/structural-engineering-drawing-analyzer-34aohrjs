@@ -1,4 +1,4 @@
-import { BomItem } from "@/components/BillOfMaterials"
+import { BomItem } from "../components/BillOfMaterials"
 
 /**
  * This is a placeholder for Excel export functionality.

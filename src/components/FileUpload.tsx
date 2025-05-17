@@ -1,8 +1,8 @@
 import { useState, useRef } from "react"
 import { Upload, X, FileText, Image } from "lucide-react"
-import { Button } from "@/components/ui/button"
-import { Card, CardContent } from "@/components/ui/card"
-import { useToast } from "@/hooks/use-toast"
+import { Button } from "../components/ui/button"
+import { Card, CardContent } from "../components/ui/card"
+import { useToast } from "../hooks/use-toast"
 
 interface FileInfo {
   id: string
